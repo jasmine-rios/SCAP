@@ -1,0 +1,7 @@
+create-ec2.yaml
+
+AWSTemplateFormatVersion: '2010-09-09'
+
+Description: Template for creating SCAP automation with Lambda, AWS Systems Manager Automation, s3 and DynamoDB.
+
+Parameters:
